@@ -1,0 +1,35 @@
+This script is designed to be punchy, professional, and emotionally resonant. Since you are presenting to industry leaders at PMAX-EMAX, we need to balance the **technical cool factor** with the **business reality** of liability and safety.
+
+Here is the pitch script for your "Worker Safety" module.
+
+***
+
+# **🦺 SafeZone AI: The Invisible Safety Officer**
+
+**"Eyes that never blink. Safety that never sleeps."**
+
+## **💡 The Problem**
+
+In a bustling manufacturing plant, **safety compliance is often reactive, not proactive.**
+
+Safety officers cannot be everywhere at once. A worker removes their hard hat due to heat for just 5 minutes, or unknowingly takes a shortcut through a high-voltage forklift lane. These split-second decisions lead to accidents that cause tragic injuries, massive insurance liabilities, and **days of production downtime** due to mandatory investigations.
+
+Currently, we rely on manual spot-checks. But as soon as the safety officer walks away, compliance drops.
+
+## **🚀 The Solution**
+
+**SafeZone AI** is an autonomous computer vision system that plugs into your existing CCTV infrastructure.
+
+We don't need new hardware. We simply upgrade your current cameras with intelligence.
+1.  **PPE Detection:** The system detects—in real-time—if a worker is missing critical gear like hard hats.
+
+*[Point to your demo/screen]*
+"As you can see in this live demo, the AI flags the violation the millisecond it happens, not days later."
+
+## **💎 Benefits & Impact**
+
+* **Zero Downtime Goal:** By preventing accidents before they happen, we avoid costly line stoppages and regulatory shut-downs.
+* **100% Compliance Visibility:** Management gets a dashboard showing safety trends (e.g., "Shift 2 has low helmet compliance"), allowing for targeted training.
+* **Reduced Liability:** Lower insurance premiums by demonstrating a state-of-the-art, proactive safety culture.
+
+**SafeZone AI isn't just about following rules; it’s about ensuring every worker goes home to their family at 6:00 PM.**
