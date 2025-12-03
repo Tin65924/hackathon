@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>YOLO Live Object Detection</title>
+  <style>
+    body {
+      margin: 0;
+      background: #111;
+      font-family: Arial, sans-serif;
+      color: #fff;
+      text-align: center;
+    }
+
+    header {
+      padding: 20px;
+      font-size: 24px;
+      background: #1b1b1b;
+      border-bottom: 2px solid #333;
+    }
+
+    #video-container {
+      margin-top: 20px;
+    }
+
+    #video_feed {
+      width: 80%;
+      border: 3px solid #ff7ad0;
+      border-radius: 8px;
+    }
+
+    #controls {
+      margin-top: 20px;
+    }
+
+    button {
+      padding: 10px 20px;
+      margin: 5px;
+      border: none;
+      background: #ff7ad0;
+      color: #111;
+      cursor: pointer;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background: #ff93da;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  YOLOv8 Live Object Detection
+</header>
+
+<div id="video-container">
+  <img id="video_feed" src="http://localhost:8000/video_feed" alt="Video Feed"/>
+</div>
+
+<div id="controls">
+  <button onclick="start()">Start</button>
+  <button onclick="stop()">Stop</button>
+</div>
+
+<script>
+  function start() {
+    document.getElementById("video_feed").src = "http://localhost:8000/video_feed";
+  }
+
+  function stop() {
+    document.getElementById("video_feed").src = "";
+  }
+</script>
+
+</body>
+</html>
